@@ -1,16 +1,30 @@
-# magic_8_ball_flutter
+# Magic 8 Ball Flutter
+It is my 4<sup>th</sup> flutter app while learning the flutter. It was a
+Challenge given by the Mentor.
 
-A new Flutter project.
+## Functionality:
 
-## Getting Started
+It has functionality of magic ball when clicked it will answer/ suggest
+you out of Eight
 
-This project is a starting point for a Flutter application.
+## Learning 
 
-A few resources to get you started if this is your first Flutter project:
+I have learned and Used in this Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1.  Statefull Widget
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2.  Variable
+
+3.  Dart:math
+
+4.  Random
+
+5.  Functions
+
+6.  Text Button
+
+7.  Expanded
+
+## Final Screenshot
+
+<img src="images/projec_ss.png" style="width:3.06043in;height:4.87981in" />
