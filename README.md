@@ -27,4 +27,4 @@ I have learned and Used in this Project
 
 ## Final Screenshot
 
-<img src="images/project_ss.png" style="width:3.06043in;height:4.87981in" />
+<img src="images/project_ss.PNG" style="width:3.06043in;height:4.87981in" />
